@@ -24,7 +24,7 @@ github_username:  acrucis
 
 # Build settings
 markdown: kramdown
-theme: dasper
+theme: minima
 plugins:
   - jekyll-feed
 
